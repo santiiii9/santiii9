@@ -32,7 +32,7 @@ Currently working on AI data operations for Apple (via iMerit) — focused on da
 
 ## 📊 GitHub Stats
 
-![Santi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiiii9&show_icons=true&hide_title=true&count_private=true&theme=default)
+![Santi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiauliadewi&show_icons=true&hide_title=true&count_private=true&theme=default)
 
 ---
 
